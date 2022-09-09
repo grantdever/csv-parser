@@ -1,5 +1,7 @@
 # CsvParserApi
 
+This project is still in development. The goal is to create a simple web application that will allow a user to upload a csv, parse that data on the backend, store the relevant data on a database, and then serve the data from the csv on a web page.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
 
 ## Development server
